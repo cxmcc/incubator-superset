@@ -26,7 +26,7 @@ pydruid==0.4.3
 pyhive==0.5.1
 python-dateutil==2.6.1
 python-geohash==0.8.5
-pyyaml==3.12
+pyyaml==5.4
 requests==2.18.4
 simplejson==3.13.2
 six==1.11.0
